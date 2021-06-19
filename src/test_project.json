@@ -1,0 +1,65 @@
+[
+{
+  "model": "myapp.city",
+  "pk": 1,
+  "fields": {
+    "name": "Суми",
+    "slug": ""
+  }
+},
+{
+  "model": "myapp.city",
+  "pk": 2,
+  "fields": {
+    "name": "Хмельницький",
+    "slug": "khmelnytskyi"
+  }
+},
+{
+  "model": "myapp.city",
+  "pk": 3,
+  "fields": {
+    "name": "Київ",
+    "slug": "kyiv"
+  }
+},
+{
+  "model": "myapp.city",
+  "pk": 4,
+  "fields": {
+    "name": "Красилів",
+    "slug": "krasyliv"
+  }
+},
+{
+  "model": "myapp.city",
+  "pk": 5,
+  "fields": {
+    "name": "Одеса",
+    "slug": "odesa"
+  }
+},
+{
+  "model": "myapp.language",
+  "pk": 1,
+  "fields": {
+    "name": "Python",
+    "slug": ""
+  }
+},
+{
+  "model": "myapp.language",
+  "pk": 2,
+  "fields": {
+    "name": "Java",
+    "slug": "java"
+  }
+},
+{
+  "model": "myapp.language",
+  "pk": 3,
+  "fields": {
+    "name": "css",
+    "slug": "css"
+  }
+}
